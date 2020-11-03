@@ -11,3 +11,6 @@ One thing i did learn was not to put the power supply within the casing. The clo
 The inbuilt transformer cracked the board. Version 2 had a rudimentary power pack plugged into the jiffy box instead.
 
 This is the circuit/layout and also the code. Sorry dont have pics of the clocks any more. 
+
+http://jdimeglio.blogspot.com/2020/05/pic16f84-gym-clock.html
+
